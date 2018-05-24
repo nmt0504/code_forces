@@ -1,0 +1,3 @@
+/Users/toannguyen/Study/Implement_Code/C_project/array_224B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/toannguyen/Study/Implement_Code/C_project/array_224B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toannguyen/Study/Implement_Code/C_project/array_224B/cmake-build-debug/CMakeFiles/array_224B.dir

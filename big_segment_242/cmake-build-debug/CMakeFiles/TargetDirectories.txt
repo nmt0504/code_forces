@@ -1,0 +1,3 @@
+/Users/toannguyen/Study/Implement_Code/C_project/big_segment_242/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/toannguyen/Study/Implement_Code/C_project/big_segment_242/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toannguyen/Study/Implement_Code/C_project/big_segment_242/cmake-build-debug/CMakeFiles/big_segment_242.dir
